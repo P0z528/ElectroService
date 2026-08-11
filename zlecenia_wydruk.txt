@@ -1,0 +1,12 @@
+------------------------
+Numer zlecenia: #1
+Numer seryjny:  1
+Klient: Jan Kowalski
+------------------------
+
+------------------------
+Numer zlecenia: #2
+Numer seryjny:  2
+Klient: Maria Witkowska
+------------------------
+
