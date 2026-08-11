@@ -2,11 +2,6 @@
 
 Projekt przedstawia system wspierający pełną obsługę procesu naprawy sprzętu elektronicznego — od przyjęcia urządzenia w recepcji, przez diagnozę i realizację naprawy, aż po kontrolę jakości, rozliczenie oraz wydanie sprzętu klientowi.
 
-## Zespół projektowy
-
-- Mateusz Pociecha
-- Błażej Gołda
-
 ## Opis projektu
 
 Aplikacja została zaprojektowana jako system do kompleksowego zarządzania serwisem elektroniki. Jej celem jest uporządkowanie pracy kilku działów oraz zapewnienie płynnego przepływu informacji pomiędzy pracownikami.
